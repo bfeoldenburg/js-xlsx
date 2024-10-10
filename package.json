@@ -7,6 +7,7 @@
 	"bin": {
 		"xlsx": "./bin/xlsx.njs"
 	},
+	"types": "types/index.d.ts",
 	"main": "./xlsx",
 	"dependencies": {
 		"ssf":"~0.8.1",
